@@ -4,4 +4,5 @@
     <default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
     <project name="stefano_fiorentino/sm1cma" remote="bitbucket" path="sm1cma" revision="experimental"/>
     <project name="libuv/libuv" remote="github" path="libuv" revision="02a9e1be252b623ee032a3137c0b0c94afbe6809"/>
+    <project name="stefanofiorentino/uvw" remote="github" path="uvw" revision="experimental"/>
 </manifest>
