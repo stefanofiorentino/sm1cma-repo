@@ -1,5 +1,5 @@
 <manifest>
     <remote name="bitbucket" fetch="https://bitbucket.org"/>
     <default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
-    <project name="stefano_fiorentino/sm1cma" remote="bitbucket" path="sm1cma"/>
+    <project name="stefano_fiorentino/sm1cma" remote="bitbucket" path="sm1cma" revision="experimental"/>
 </manifest>
