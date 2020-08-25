@@ -5,4 +5,5 @@
     <project name="stefano_fiorentino/sm1cma" remote="bitbucket" path="sm1cma" revision="experimental"/>
     <project name="stefanofiorentino/uvw" remote="github" path="uvw" revision="experimental"/>
     <project name="open-source-parsers/jsoncpp" remote="github" path="jsoncpp" revision="refs/tags/1.9.3"/>
+    <project name="nodejs/http-parser" remote="github" path="http-parser" revision="refs/tags/v2.9.4"/>
 </manifest>
