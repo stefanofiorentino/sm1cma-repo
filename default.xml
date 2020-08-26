@@ -9,4 +9,5 @@
     <project name="eclipse/mosquitto" remote="github" path="mosquitto" revision="refs/tags/v1.6.10"/>
     <project name="stefano_fiorentino/persistence_manager" remote="bitbucket" path="persistence_manager" revision="experimental"/>
     <project name="google/googletest" remote="github" path="googletest"/>
+    <project name="curl/curl" remote="github" path="curl"/>
 </manifest>
