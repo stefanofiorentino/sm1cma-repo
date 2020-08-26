@@ -10,4 +10,5 @@
     <project name="stefano_fiorentino/persistence_manager" remote="bitbucket" path="persistence_manager" revision="experimental"/>
     <project name="google/googletest" remote="github" path="googletest"/>
     <project name="curl/curl" remote="github" path="curl"/>
+    <project name="skypjack/entt" remote="github" path="entt" revision="refs/tags/v3.4.0"/>
 </manifest>
