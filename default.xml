@@ -11,4 +11,5 @@
     <project name="google/googletest" remote="github" path="googletest"/>
     <project name="curl/curl" remote="github" path="curl"/>
     <project name="skypjack/entt" remote="github" path="entt" revision="refs/tags/v3.4.0"/>
+    <project name="ocornut/imgui" remote="github" path="imgui" revision="refs/tags/v1.78"/>
 </manifest>
