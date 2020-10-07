@@ -12,4 +12,5 @@
     <project name="curl/curl" remote="github" path="curl"/>
     <project name="skypjack/entt" remote="github" path="entt" revision="refs/tags/v3.4.0"/>
     <project name="ocornut/imgui" remote="github" path="imgui" revision="refs/tags/v1.78"/>
+    <project name="eliasdaler/imgui-sfml" remote="github" revision="refs/tags/v2.1"/>
 </manifest>
