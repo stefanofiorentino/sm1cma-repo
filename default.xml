@@ -3,7 +3,8 @@
     <remote name="github" fetch="https://github.com"/>
     <default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
     <project name="stefano_fiorentino/sm1cma" remote="bitbucket" path="sm1cma" revision="experimental"/>
-    <project name="stefanofiorentino/uvw" remote="github" path="uvw" revision="experimental"/>
+    <project name="libuv/libuv" remote="github" path="libuv" revision="refs/tags/v1.40.0"/>
+    <project name="skypjack/uvw" remote="github" path="uvw" revision="refs/tags/v2.8.0_libuv_v1.40"/>
     <project name="open-source-parsers/jsoncpp" remote="github" path="jsoncpp" revision="refs/tags/1.9.3"/>
     <project name="nodejs/http-parser" remote="github" path="http-parser" revision="refs/tags/v2.9.4"/>
     <project name="eclipse/mosquitto" remote="github" path="mosquitto" revision="refs/tags/v1.6.10"/>
@@ -12,5 +13,6 @@
     <project name="curl/curl" remote="github" path="curl"/>
     <project name="skypjack/entt" remote="github" path="entt" revision="refs/tags/v3.4.0"/>
     <project name="ocornut/imgui" remote="github" path="imgui" revision="refs/tags/v1.78"/>
-    <project name="eliasdaler/imgui-sfml" remote="github" revision="refs/tags/v2.1"/>
+    <project name="eliasdaler/imgui-sfml" remote="github" path="imgui-sfml" revision="refs/tags/v2.1"/>
+    <project name="SFML/SFML" remote="github" path="sfml" revision="refs/tags/2.5.1"/>
 </manifest>
