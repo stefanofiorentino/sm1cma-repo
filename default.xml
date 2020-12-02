@@ -15,4 +15,5 @@
     <project name="ocornut/imgui" remote="github" path="imgui" revision="refs/tags/v1.78"/>
     <project name="eliasdaler/imgui-sfml" remote="github" path="imgui-sfml" revision="refs/tags/v2.1"/>
     <project name="SFML/SFML" remote="github" path="sfml" revision="refs/tags/2.5.1"/>
+    <project name="stefanofiorentino/embeh" remote="github" path="embeh" revision="main"/>
 </manifest>
